@@ -1,5 +1,5 @@
 <B>LOCAL GIT</B>
-<ul><li> Git repo
+<ul><li> Git repo {either git copy "File name" OR git pull "File name" }
 <li> Clone
 <li> Changes
 <li> add (git add "File name")
