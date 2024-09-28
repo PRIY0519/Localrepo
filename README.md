@@ -11,7 +11,5 @@
 <li> to see all commit (git log)
 <li> to reset particular commit use commit hash(git reset <hash number>)
 <li> To remove Changes in both VS Code and Github (git reset --hard<hash number>)
-</ul>
-=======
-<li> T UNDO Changes ( git reset "File Name")</ul>
->>>>>>> origin/main
+<li> To UNDO Changes ( git reset "File Name")</ul>
+
