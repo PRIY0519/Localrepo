@@ -4,4 +4,5 @@
 <li> Changes
 <li> add (git add "File name")
 <li> Commit ( git Commit -m "Title")
-<li> Push (git push origin main) </ul>
+<li> Push (git push origin main) 
+<li> T UNDO Changes ( git reset "File Name")</ul>
